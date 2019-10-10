@@ -5,7 +5,7 @@
 </head>
 ---<head>---
 
-#EasySwoole 验证码组件  
+#EasySwoole 验证码组件   yanzhengma
 
 > 仓库地址: [验证码组件](https://github.com/easy-swoole/verifyCode)
 
